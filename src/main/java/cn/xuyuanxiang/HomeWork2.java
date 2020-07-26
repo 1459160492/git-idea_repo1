@@ -8,6 +8,6 @@ public class HomeWork2 {
         System.out.println("hahahahahahah");
         System.out.println("hahahahahahah");
         System.out.println("hahahahahahah");
-        System.out.println("hahahahahahah");
+//        System.out.println("hahahahahahah");
     }
 }
